@@ -4,7 +4,6 @@
 
 **Client:** HTML, Javascript
 
-
 ## Topics
 
 - abstraction-IIFE
@@ -25,3 +24,4 @@
 - shadow-inheritance
 - spread operator
 - this keyword
+- async & await
